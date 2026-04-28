@@ -30,10 +30,10 @@ Para evitar problemas de conexão com a MetaMask, siga estas instruções:
 - Vá em permissões da extensão
 - Ative: **Allow on all sites**
   
-3. Faça login na sua carteira
-4. Certifique-se de que a rede selecionada é: 🌐 **Sepolia Test Network**
+2. Faça login na sua carteira
+3. Certifique-se de que a rede selecionada é: 🌐 **Sepolia Test Network**
 
-5. Deixe a MetaMask aberta/ativa antes de acessar o sistema
+4. Deixe a MetaMask aberta/ativa antes de acessar o sistema
 
 ## 🧭 Fluxo do usuário
 
