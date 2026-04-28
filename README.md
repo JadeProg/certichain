@@ -1,16 +1,54 @@
-# React + Vite
+# 🔐 CertiVault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CertiVault é uma aplicação Web3 para registrar e validar certificados PDF usando blockchain.
 
-Currently, two official plugins are available:
+## 🚀 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O objetivo do CertiVault é permitir que um certificado seja enviado, transformado em um hash único e registrado na blockchain. Depois, esse mesmo arquivo pode ser validado para verificar se ele corresponde ao registro original.
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Conexão com MetaMask
+- Upload de certificado em PDF
+- Geração de hash do arquivo
+- Registro do hash na blockchain
+- Verificação de autenticidade do certificado
+- Interface responsiva com React
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- CSS
+- MetaMask
+- Blockchain
+- GitHub Pages
+
+## 🌐 Acesse o projeto
+
+https://jadeprog.github.io/certichain/
+
+## 📦 Como rodar localmente
+
+git clone https://github.com/JadeProg/certichain.git  
+cd certichain  
+npm install  
+npm run dev  
+
+Acesse: http://localhost:5173/certichain/
+
+## 📤 Deploy
+
+npm run build  
+npm run deploy  
+
+## 📌 Status
+
+Projeto publicado e funcional.
+
+## 👩‍💻 Desenvolvido por
+
+Jade Paz
+
+Projeto desenvolvido como estudo prático de aplicações Web3, blockchain e validação de documentos digitais.
