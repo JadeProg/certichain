@@ -70,7 +70,7 @@ Para evitar problemas de conexão com a MetaMask, siga estas instruções:
 git clone https://github.com/JadeProg/certichain.git  
 cd certichain  
 npm install  
-npm run dev ``` 
+npm run dev  
 
 ---
 
