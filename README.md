@@ -4,8 +4,6 @@ CertiVault é uma aplicação Web3 para registrar e validar certificados PDF usa
 
 ---
 
-
-
 <p align="center">
   <a href="https://jadeprog.github.io/certichain/" target="_blank">
     <img src="https://img.shields.io/badge/🔐%20Abrir%20CertiVault-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -20,9 +18,22 @@ CertiVault é uma aplicação Web3 para registrar e validar certificados PDF usa
 
 ---
 
-## 🚀 Sobre o projeto
+## 🗒️ Sobre o projeto
 
 O objetivo do CertiVault é permitir que um certificado seja enviado, transformado em um hash único e registrado na blockchain. Depois, esse mesmo arquivo pode ser validado para verificar se ele corresponde ao registro original.
+
+---
+
+Para evitar problemas de conexão com a MetaMask, siga estas instruções:
+
+1. Abra a extensão da MetaMask no navegador **Chrome** de preferência
+- Vá em permissões da extensão
+- Ative: **Allow on all sites**
+  
+3. Faça login na sua carteira
+4. Certifique-se de que a rede selecionada é: 🌐 **Sepolia Test Network**
+
+5. Deixe a MetaMask aberta/ativa antes de acessar o sistema
 
 ---
 
@@ -51,12 +62,11 @@ O objetivo do CertiVault é permitir que um certificado seja enviado, transforma
 
 ## 📦 Como rodar localmente
 
+```bash
 git clone https://github.com/JadeProg/certichain.git  
 cd certichain  
 npm install  
-npm run dev  
-
-Acesse: http://localhost:5173/certichain/
+npm run dev ``` 
 
 ---
 
@@ -66,7 +76,7 @@ npm run build
 npm run deploy  
 
 ---
-
+```
 ## 👩🏻‍🦰 Desenvolvedora
 
 *   **Jade Pereira da Paz**
