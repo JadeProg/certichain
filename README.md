@@ -13,7 +13,7 @@ CertiVault é uma aplicação Web3 para registrar e validar certificados PDF usa
 </p>
 
 <p align="center">
-  <img src="./preview.png" width="800" height="400" />
+  <img src="./preview.png" width="900"/>
 </p>
 
 <p align="center">
