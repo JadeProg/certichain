@@ -4,7 +4,7 @@ CertiVault é uma aplicação Web3 para registrar e validar certificados PDF usa
 
 ---
 
-## 🌐 Acesse o projeto
+
 
 <p align="center">
   <a href="https://jadeprog.github.io/certichain/" target="_blank">
@@ -13,11 +13,9 @@ CertiVault é uma aplicação Web3 para registrar e validar certificados PDF usa
 </p>
 
 <p align="center">
-  <img src="./preview.png" width="700" />
-</p>
-
-<p align="center">
-  <i>Interface do CertiVault rodando em produção</i>
+  <a href="https://jadeprog.github.io/certichain/" target="_blank">
+    <img src="./preview.png" width="700" />
+  </a>
 </p>
 
 ---
