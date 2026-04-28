@@ -67,8 +67,9 @@ npm run deploy
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## 👩🏻‍🦰 Desenvolvedora
 
-**Jade Paz**
+*   **Jade Pereira da Paz**
+*   [LinkedIn](https://www.linkedin.com/in/jade-paz/)
+*   [GitHub](https://github.com/JadeProg)
 
-Projeto desenvolvido como estudo prático de aplicações Web3, blockchain e validação de documentos digitais.
