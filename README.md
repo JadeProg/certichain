@@ -35,7 +35,11 @@ Para evitar problemas de conexão com a MetaMask, siga estas instruções:
 
 5. Deixe a MetaMask aberta/ativa antes de acessar o sistema
 
----
+## 🧭 Fluxo do usuário
+
+<p align="center">
+  <img src="./fluxodousuario.png" width="900" alt="Fluxo do usuário no CertiVault" />
+</p>
 
 ## ✨ Funcionalidades
 
