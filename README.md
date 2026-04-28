@@ -74,7 +74,7 @@ npm run dev
 
 ---
 
-## 📤 Deploy
+📤 Deploy
 
 npm run build  
 npm run deploy  
