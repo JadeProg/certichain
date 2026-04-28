@@ -67,12 +67,6 @@ npm run deploy
 
 ---
 
-## 📌 Status
-
-Projeto publicado e funcional.
-
----
-
 ## 👩‍💻 Desenvolvido por
 
 **Jade Paz**
